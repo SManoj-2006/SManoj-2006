@@ -51,7 +51,7 @@
 
 ## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SManoj-2006&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9D4EDD&text_color=C9A9F0&langs_count=8" />
+
 
 I am a Computer Science undergraduate at the Institute of Aeronautical Engineering, Hyderabad, with a strong engineering foundation and a production-first mindset. I design and build systems that are scalable, intelligent, and reliable — from real-time collaborative platforms to AI-powered automation pipelines.
 
