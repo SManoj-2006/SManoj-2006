@@ -132,7 +132,7 @@ An end-to-end technical interview platform built for high-fidelity, real-time en
 | **Performance** | Low-latency real-time communication via WebSocket |
 | **Security** | Sandboxed code execution environment, auth-gated rooms |
 | **Impact** | End-to-end interview lifecycle management, automated grading |
-| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006) |
+| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006/CodingPlatform) |
 
 The platform was architected to eliminate the fragmentation in remote technical interviews — where teams typically juggle separate tools for video, code editors, and evaluation. By building a unified system with sandboxed code execution and real-time collaboration, interview fidelity improves significantly. REST APIs handle auth flows and room lifecycle management, while WebSocket channels maintain synchronization between participants.
 
@@ -154,7 +154,7 @@ An AI-powered registration system that eliminates manual candidate onboarding. E
 | **Performance** | Instant profile generation from unstructured PDF input |
 | **Security** | Supabase RLS, authenticated storage and data access |
 | **Impact** | Near-zero manual entry for candidate onboarding workflows |
-| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006) |
+| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006/KL_FINAL) |
 
 The system leverages NLP-based information extraction to parse arbitrary resume formats and map them to a structured candidate schema. Smart job recommendation logic applies semantic matching between candidate profiles and available roles. The Supabase backend provides row-level security, ensuring data isolation across candidates and organizations.
 
@@ -176,7 +176,7 @@ A full-stack personalized learning platform with adaptive course delivery, granu
 | **Performance** | Optimistic UI updates with real-time progress sync |
 | **Security** | Supabase Auth + Row Level Security across all tables |
 | **Impact** | Fully personalized learning paths per user |
-| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006) |
+| **Repository** | [github.com/SManoj-2006](https://github.com/SManoj-2006/AI-Based-E-Learning) |
 
 The platform was built TypeScript-first to enforce strict data contracts across the frontend and backend interface. Supabase's Row Level Security policies ensure each learner only accesses their own progress and content. Course management, authentication, and progress tracking are unified in a single cohesive architecture designed for long-term maintainability.
 
